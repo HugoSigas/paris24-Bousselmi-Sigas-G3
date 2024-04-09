@@ -12,6 +12,7 @@ Original file is located at
 """
 
 #Exercise 1----------------------------------------------------------------
+#Ongoing - Hugo 
 !pip install _________
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
@@ -31,6 +32,7 @@ plt.tight_layout(pad = 0)
 plt.show()
 
 """**WC, Slide 10 - Exercise 2**"""
+#Ongoing - Matthieu 
 
 !pip install pillow
 import numpy as np
@@ -78,6 +80,7 @@ plt.show()
 """**WC, Slide 11 - Exercise 3**"""
 
 # Exercice 3--------------------------------------------------------------------
+# Ongoing - Matthieu
 # White font and excluding the word THY
 canvas_width=1920
 canvas_height=1080
